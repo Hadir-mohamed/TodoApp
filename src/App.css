@@ -1,0 +1,12 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 410px;
+  margin: 0 auto;
+}
+
+.todo-item__text--completed {
+  text-decoration: line-through;
+  color: lightgray;
+}
+
